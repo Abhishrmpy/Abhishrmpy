@@ -5,12 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishrmpy&label=Profile%20views&color=0e75b6&style=flat" alt="abhishrmpy" /> </p>
 
-- 🔭 I’m currently working on **zavhi( AI Agent )**
-
 - 🌱 I’m currently learning **TensorFlow, PyTorch, Scikit-Learn**
-
-- 👯 I’m looking to collaborate on **zavhi (AI Agent)**
-
 - 👨‍💻 All of my projects are available at [https://type.link/abhishekprotfolio](https://type.link/abhishekprotfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@abhishrm9072](https://medium.com/@abhishrm9072)
